@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ko-han&#39;s blog</title>
+    <link>https://ko-han.github.io/</link>
+    <description>Recent content on ko-han&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - 2018 Ko-Han</copyright>
+    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ko-han.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ko-han.github.io/about/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ko-han.github.io/about/</guid>
+      <description>Ko-Han I love Python!</description>
+    </item>
+    
+    <item>
+      <title>Markdown Tutorals</title>
+      <link>https://ko-han.github.io/2017/markdown-tutorals/</link>
+      <pubDate>Sat, 29 Jul 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/markdown-tutorals/</guid>
+      <description>Markdown介绍： Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。John Gruber 在 2004 年创造了 Markdown 语言，在语法上有很大一部分是跟亚伦·斯沃茨（Aaron Swartz）共同合作的。这个语言的目的是希望大家使用“易于阅读、易于撰写的纯文字格式，并选择性的转换成有效的 XHTML (或是HTML)”。 其中最重要的设计是可读性，也就是说这个语言应该要能直接在字面上的被阅读，而不用被一些格式化指令标记 (像是 RTF 与 HTML)。 因此，它是现行电子邮件标记格式的惯例，虽然它也借鉴了很多早期的标记语言，如：setext、Texile、reStructuredText。 许多网站都使用Markdown 或是其变种，例如：GitHub、reddit、Diaspora、Stack Exchange、OpenStreetMap 与 SourceForge 让用户更利于讨论。</description>
+    </item>
+    
+    <item>
+      <title>Nginx Uwsgi Flask 部署</title>
+      <link>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</link>
+      <pubDate>Sat, 29 Jul 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</guid>
+      <description>本人最近在搬瓦工上部署了自己的Django博客，把自己踩的坑先记录下来，防止下次继续踩坑。主要参考uWSGI的官方文档。以下代码中，”（）“内带中文的要修改为自己的，”#“ 后面的内容是注释。</description>
+    </item>
+    
+  </channel>
+</rss>
