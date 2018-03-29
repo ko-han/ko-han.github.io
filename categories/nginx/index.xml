@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nginx on ko-han&#39;s blog</title>
+    <link>https://ko-han.github.io/categories/nginx/</link>
+    <description>Recent content in Nginx on ko-han&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - 2018 Ko-Han</copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 17:24:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ko-han.github.io/categories/nginx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nginx自动添加www</title>
+      <link>https://ko-han.github.io/2017/nginx-auto-www/</link>
+      <pubDate>Sun, 23 Apr 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-auto-www/</guid>
+      <description>个人网址前面添加www，但有些人不喜欢输入www，所以配置一下Nginx，所有不带www的网址输入均自动添加www，配置如下：</description>
+    </item>
+    
+  </channel>
+</rss>

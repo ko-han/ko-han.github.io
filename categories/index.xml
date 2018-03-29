@@ -19,5 +19,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Nginx</title>
+      <link>https://ko-han.github.io/categories/nginx/</link>
+      <pubDate>Sun, 23 Apr 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/categories/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ops</title>
+      <link>https://ko-han.github.io/categories/ops/</link>
+      <pubDate>Mon, 22 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/categories/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://ko-han.github.io/categories/others/</link>
+      <pubDate>Wed, 10 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ko-han.github.io/categories/python/</link>
+      <pubDate>Fri, 08 Sep 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,10 +6,19 @@
     <description>Recent content in archive on ko-han&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2017 - 2018 Ko-Han</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 17:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 17:24:00 +0800</lastBuildDate>
     
 	<atom:link href="https://ko-han.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python类的属性检查</title>
+      <link>https://ko-han.github.io/2017/python-propert-ycheck/</link>
+      <pubDate>Fri, 08 Sep 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/python-propert-ycheck/</guid>
+      <description>在绑定属性时，如果我们直接把属性暴露出去，虽然写起来很简单，但是，没办法检查参数，导致属性可以把随便更改：</description>
+    </item>
     
     <item>
       <title>Markdown Tutorals</title>
@@ -21,12 +30,30 @@
     </item>
     
     <item>
-      <title>Nginx Uwsgi Flask 部署</title>
+      <title>Nginx uWSGI Flask 部署</title>
       <link>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</link>
-      <pubDate>Sat, 29 Jul 2017 17:24:00 +0800</pubDate>
+      <pubDate>Mon, 22 May 2017 17:24:00 +0800</pubDate>
       
       <guid>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</guid>
       <description>本人最近在搬瓦工上部署了自己的Django博客，把自己踩的坑先记录下来，防止下次继续踩坑。主要参考uWSGI的官方文档。以下代码中，”（）“内带中文的要修改为自己的，”#“ 后面的内容是注释。</description>
+    </item>
+    
+    <item>
+      <title>8个免费好用的图床服务</title>
+      <link>https://ko-han.github.io/2017/free-figure-service/</link>
+      <pubDate>Wed, 10 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/free-figure-service/</guid>
+      <description>博客的VPS空间不大，图片服务只好寻求图床服务了，需求也不高，就选用一些免费的图床来插入图片吧。关于如何在Markdown中添加图片，可以参考我这篇文章，Markdown入门</description>
+    </item>
+    
+    <item>
+      <title>Nginx自动添加www</title>
+      <link>https://ko-han.github.io/2017/nginx-auto-www/</link>
+      <pubDate>Sun, 23 Apr 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-auto-www/</guid>
+      <description>个人网址前面添加www，但有些人不喜欢输入www，所以配置一下Nginx，所有不带www的网址输入均自动添加www，配置如下：</description>
     </item>
     
   </channel>
