@@ -78,7 +78,21 @@
 
 
 
-
+<div id="git-comments"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    id: '',  
+    owner: 'ko-han',
+    repo: 'ko-han.github.io',
+    oauth: {
+      client_id: 'd387dfd964aae3a42398',
+      client_secret: '21bb5e0762f7ae8df15c330590ab90a675c5b286',
+    }
+  })
+  gitment.render('git-comments')
+</script>
 
 
 </main>
