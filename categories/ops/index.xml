@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ops on ko-han&#39;s blog</title>
+    <link>https://ko-han.github.io/categories/ops/</link>
+    <description>Recent content in Ops on ko-han&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>Copyright &amp;copy; 2017 - 2018 Ko-Han</copyright>
+    <lastBuildDate>Mon, 22 May 2017 17:24:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ko-han.github.io/categories/ops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nginx uWSGI Flask 部署</title>
+      <link>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</link>
+      <pubDate>Mon, 22 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</guid>
+      <description>本</description>
+    </item>
+    
+  </channel>
+</rss>

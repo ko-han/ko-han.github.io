@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ko-han&#39;s blog</title>
+    <link>https://ko-han.github.io/</link>
+    <description>Recent content on ko-han&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>Copyright &amp;copy; 2017 - 2018 Ko-Han</copyright>
+    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ko-han.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ko-han.github.io/about/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ko-han.github.io/about/</guid>
+      <description>Ko-Han I love Python!</description>
+    </item>
+    
+    <item>
+      <title>Python类的属性检查</title>
+      <link>https://ko-han.github.io/2017/python-propert-ycheck/</link>
+      <pubDate>Fri, 08 Sep 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/python-propert-ycheck/</guid>
+      <description>在</description>
+    </item>
+    
+    <item>
+      <title>Markdown Tutorals</title>
+      <link>https://ko-han.github.io/2017/markdown-tutorals/</link>
+      <pubDate>Sat, 29 Jul 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/markdown-tutorals/</guid>
+      <description>M</description>
+    </item>
+    
+    <item>
+      <title>Nginx uWSGI Flask 部署</title>
+      <link>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</link>
+      <pubDate>Mon, 22 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-uwsgi-flask-deploy/</guid>
+      <description>本</description>
+    </item>
+    
+    <item>
+      <title>8个免费好用的图床服务</title>
+      <link>https://ko-han.github.io/2017/free-figure-service/</link>
+      <pubDate>Wed, 10 May 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/free-figure-service/</guid>
+      <description>博</description>
+    </item>
+    
+    <item>
+      <title>Nginx自动添加www</title>
+      <link>https://ko-han.github.io/2017/nginx-auto-www/</link>
+      <pubDate>Sun, 23 Apr 2017 17:24:00 +0800</pubDate>
+      
+      <guid>https://ko-han.github.io/2017/nginx-auto-www/</guid>
+      <description>个</description>
+    </item>
+    
+  </channel>
+</rss>
