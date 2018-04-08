@@ -59,10 +59,10 @@
     
     <item>
       <title>Nginx自动添加www</title>
-      <link>https://ko-han.github.io/posts/nginx-auto-www/</link>
+      <link>https://ko-han.github.io/posts/2017-04-23-nginx%E9%85%8D%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0www/</link>
       <pubDate>Sun, 23 Apr 2017 17:24:00 +0800</pubDate>
       
-      <guid>https://ko-han.github.io/posts/nginx-auto-www/</guid>
+      <guid>https://ko-han.github.io/posts/2017-04-23-nginx%E9%85%8D%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0www/</guid>
       <description>个人网址前面添加www，但有些人不喜欢输入www，所以配置一下Nginx，所有不带www的网址输入均自动添加www，配置如下： server { listen 80; server_name www.willtunner.me willtunner.me; if ($host != &#39;www.willtunner.me&#39; ) { rewrite ^/(.*)$ http://www.willtunner.me/$1 permanent;</description>
     </item>
     
