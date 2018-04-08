@@ -14,10 +14,10 @@
     
     <item>
       <title>Nginx uWSGI Flask 部署</title>
-      <link>https://ko-han.github.io/posts/nginx-uwsgi-flask-deploy/</link>
+      <link>https://ko-han.github.io/2017/05/nginx-uwsgi-flask-deploy/</link>
       <pubDate>Mon, 22 May 2017 17:24:00 +0800</pubDate>
       
-      <guid>https://ko-han.github.io/posts/nginx-uwsgi-flask-deploy/</guid>
+      <guid>https://ko-han.github.io/2017/05/nginx-uwsgi-flask-deploy/</guid>
       <description>本人最近在搬瓦工上部署了自己的Django博客，把自己踩的坑先记录下来，防止下次继续踩坑。主要参考uWSGI的官方文档。以下代码中，”（）“内带中文的要修改为自</description>
     </item>
     
