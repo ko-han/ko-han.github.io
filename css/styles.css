@@ -1,8 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
-  font-family: arial,sans-serif;;
+  font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
   color: #333;
 }
 
@@ -18,6 +17,7 @@ time {
 
 pre, code {
     font-family: "source code pro", monospace;
+    background-color: #eff0f1;
 }
 
 #container {
@@ -29,7 +29,7 @@ pre, code {
   flex-direction: column;
 }
 
-@media (min-width: 1200px)
+@media (min-width:1200px)
 #container {
     width: 1170px;
 }
@@ -161,8 +161,7 @@ pre, code {
     padding: 15px;
     color: #4c4c4c;
     border: none;
-    background-color: #f9f9f7;
-    tab-width: 4;
+    background-color: #eff0f1;
 }
 
 #container main article pre code {
@@ -174,7 +173,6 @@ pre, code {
 
 #container main article p code {
   padding: 0.2em;
-  background-color: #ffcccc;
   font-size: 0.9em;
 }
 
