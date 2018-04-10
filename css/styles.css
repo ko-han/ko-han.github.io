@@ -23,25 +23,11 @@ pre, code {
 #container {
   margin: 0 auto;
   padding: 0 15px;
+  width: 96%;
   max-width: 100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}
-
-@media (min-width:1200px)
-#container {
-    width: 1170px;
-}
-
-@media (min-width: 992px)
-#container {
-    width: 970px;
-}
-
-@media (min-width: 768px)
-#container {
-    width: 750px;
 }
 
 #container header {
