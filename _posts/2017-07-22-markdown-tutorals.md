@@ -1,9 +1,6 @@
 ---
+layout: post
 title: "Markdown Tutorals"
-date: 2017-07-29T17:24:00+08:00
-draft: false
-tags: ["markdown"]
-categories: ["docuemts"]
 ---
 ### Markdown介绍：
 

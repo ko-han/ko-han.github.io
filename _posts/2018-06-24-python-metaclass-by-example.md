@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "Python metaclass by example"
-date: 2018-06-24T16:42:04+08:00
-draft: true
 ---
 注： 本文中的 python 指 python3。所有代码展示均在 python3.6 下的运行的结果。
 
