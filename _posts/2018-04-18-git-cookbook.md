@@ -1,9 +1,6 @@
 ---
+layout: post
 title: "Git Cookbook"
-date: 2018-04-18T19:03:09+08:00
-draft: true
-tags: []
-categories: []
 ---
 
 ## 分支
