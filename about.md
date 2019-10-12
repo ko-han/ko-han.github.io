@@ -6,7 +6,7 @@ permalink: /about/
 
 # Do not go gentle into that good night
 *Dylan Thomas - 1914-1953*
-  
+![](/static/images/about-blackhole.png)
   
 Do not go gentle into that good night,  
 Old age should burn and rave at close of day;  
