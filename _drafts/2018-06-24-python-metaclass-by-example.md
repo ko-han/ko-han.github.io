@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Python metaclass by example"
+categories: Python
+tags: Python
 ---
 注： 本文中的 python 指 python3。所有代码展示均在 python3.6 下的运行的结果。
 
